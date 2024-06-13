@@ -1,0 +1,15 @@
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\bin\Debug\net8.0\CesarCipher.exe
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\bin\Debug\net8.0\CesarCipher.deps.json
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\bin\Debug\net8.0\CesarCipher.runtimeconfig.json
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\bin\Debug\net8.0\CesarCipher.dll
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\bin\Debug\net8.0\CesarCipher.pdb
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\obj\Debug\net8.0\CesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\obj\Debug\net8.0\CesarCipher.AssemblyInfoInputs.cache
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\obj\Debug\net8.0\CesarCipher.AssemblyInfo.cs
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\obj\Debug\net8.0\CesarCipher.csproj.CoreCompileInputs.cache
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\obj\Debug\net8.0\CesarCipher.sourcelink.json
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\obj\Debug\net8.0\CesarCipher.dll
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\obj\Debug\net8.0\refint\CesarCipher.dll
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\obj\Debug\net8.0\CesarCipher.pdb
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\obj\Debug\net8.0\CesarCipher.genruntimeconfig.cache
+c:\Users\leand\Desktop\were\finalsof\CesarCipher\obj\Debug\net8.0\ref\CesarCipher.dll

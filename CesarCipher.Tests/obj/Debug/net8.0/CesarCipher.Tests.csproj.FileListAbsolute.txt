@@ -1,0 +1,7 @@
+c:\Users\leand\Desktop\were\finalsof\CesarCipher.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_CesarCipher.Tests
+c:\Users\leand\Desktop\were\finalsof\CesarCipher.Tests\obj\Debug\net8.0\CesarCipher.Tests.csproj.AssemblyReference.cache
+c:\Users\leand\Desktop\were\finalsof\CesarCipher.Tests\obj\Debug\net8.0\CesarCipher.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leand\Desktop\were\finalsof\CesarCipher.Tests\obj\Debug\net8.0\CesarCipher.Tests.AssemblyInfoInputs.cache
+c:\Users\leand\Desktop\were\finalsof\CesarCipher.Tests\obj\Debug\net8.0\CesarCipher.Tests.AssemblyInfo.cs
+c:\Users\leand\Desktop\were\finalsof\CesarCipher.Tests\obj\Debug\net8.0\CesarCipher.Tests.csproj.CoreCompileInputs.cache
+c:\Users\leand\Desktop\were\finalsof\CesarCipher.Tests\obj\Debug\net8.0\CesarCipher.Tests.sourcelink.json
